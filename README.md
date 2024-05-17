@@ -62,15 +62,6 @@ This project involves the analysis of movies available on popular streaming serv
 6. **Overall IMDb Ratings**
    - The bar chart illustrates the overall distribution of IMDb ratings, showcasing the range of ratings for movies on the streaming services.
 
-## Included Files
-- **Streaming_Services_Analysis.ipynb**: Jupyter Notebook containing the Python code for analysis.
-- **data.csv**: Dataset containing movie information.
-- **Streaming Services Analysis without Nan.pdf**: Detailed analysis and visualizations.
-
-## Instructions
-1. Clone the repository to your local machine.
-2. Open the Jupyter Notebook file `Streaming_Services_Analysis.ipynb` to view the analysis.
-3. The dataset `data.csv` can be used for further exploration.
 
 ## Dependencies
 - Python 3.x
