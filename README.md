@@ -1,5 +1,6 @@
 
-# Streaming Services Analysis Project without Nan
+# Streaming Services Analysis Project
+## Without Nan
 
 ## Overview
 This project involves the analysis of movies available on popular streaming services such as Netflix, Hulu, Prime Video, and Disney+. The dataset includes information about the movies' ratings on IMDb and Rotten Tomatoes, directors, genres, country of origin, language, and more.
